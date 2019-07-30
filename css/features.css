@@ -1,0 +1,22 @@
+.features-info-container {
+    background: #F6F6F6;
+}
+
+.features-title-section {
+    text-align: center;
+    margin: 45px 0 45px 0;
+}
+
+.features-info-section {
+    align-content: center;
+}
+
+.cards-section-container {
+    margin-left: 105px;
+    margin-right: 105px;
+}
+
+.features-card {
+    display: inline-block;
+    margin-left: 30px;
+}
